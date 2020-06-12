@@ -8,8 +8,6 @@ public class GetCustomerDetailsService {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GetCustomerDetailsService.class, args);
-		
-		System.out.println("Hello World");
 	}
 
 }
